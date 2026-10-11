@@ -28,3 +28,13 @@ Frameworks:
 Standards 
 1. ISO/IEC 27001:2022 is the internationally recognized standard for establishing, implementing, maintaining, and continually improving an Information Security Management System (ISMS)
 2. ISO/IEC 42001 is the international standard for establishing, implementing, and improving Artificial Intelligence Management Systems (AIMS) to ensure responsible, ethical, and transparent AI practices.
+3. ISO 22301 is requirements for Business Continuity Management Systems to ensure resilience against disruptions.
+4. COBIT is a governance framework for IT, including cybersecurity, aligned with business goals
+5. PCI DSS was developed to encourage and enhance payment card account data security and facilitate the broad adoption of consistent data security measures globally. PCI DSS provides a baseline of technical and operational requirements designed to protect payment account data.
+
+Regulations 
+1.
+2.
+3.
+4.
+5. 

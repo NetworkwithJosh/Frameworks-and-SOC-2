@@ -37,4 +37,20 @@ Regulations
 2. EU Artificial Intelligence Act (EU AI Act) — comprehensive EU AI governance framework
 3. Sarbanes–Oxley Act (SOX) — U.S. corporate accountability and financial controls law
 4. Ireland’s Data Protection Act 2018 — national law giving effect to GDPR in Ireland
-5. 
+5. ePrivacy Regulations refer to the EU’s legal framework governing the confidentiality of electronic communications, currently based on the ePrivacy Directive, since the proposed ePrivacy Regulation was withdrawn in 2025 and never adopted.
+
+Contracts 
+1. A Statement of Work is a project‑specific contract that defines the exact work a vendor will perform—scope, deliverables, timelines, milestones, and acceptance criteria .
+2. A vendor contract is the overarching agreement governing the entire business relationship with an external supplier—services, pricing, liability, confidentiality, security, and termination
+3. Service Order Agreement—a document that authorizes or itemizes a specific service purchase under a broader contract (similar to an Order Form). In some compliance contexts, SOA may also refer to a Service Organization Agreement (e.g., SOC reports), but in vendor contracting it usually means the former.
+4. An SLA is legally considered a contract when it meets contract‑law requirements, and most SLAs function either as standalone contracts or as contractual components within a broader agreement.
+5. A Microsoft Services Agreement (MSA) is the contract that governs your use of Microsoft’s consumer online products and services, including Microsoft accounts, Outlook.com, OneDrive, and other consumer-facing tools.
+
+Policy 
+1. Risk Assessment Policy
+2. Risk Management Policy
+3. Vender Due Diligence Policy
+4. Bill Paid Policy
+5. Acceptable Use Policy
+
+

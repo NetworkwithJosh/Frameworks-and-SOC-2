@@ -33,8 +33,8 @@ Standards
 5. PCI DSS was developed to encourage and enhance payment card account data security and facilitate the broad adoption of consistent data security measures globally. PCI DSS provides a baseline of technical and operational requirements designed to protect payment account data.
 
 Regulations 
-1.
-2.
-3.
-4.
+1. General Data Protection Regulation (GDPR) — EU Regulation 2016/679
+2. EU Artificial Intelligence Act (EU AI Act) — comprehensive EU AI governance framework
+3. Sarbanes–Oxley Act (SOX) — U.S. corporate accountability and financial controls law
+4. Ireland’s Data Protection Act 2018 — national law giving effect to GDPR in Ireland
 5. 

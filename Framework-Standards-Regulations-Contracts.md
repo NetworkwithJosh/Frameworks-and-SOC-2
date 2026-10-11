@@ -53,4 +53,10 @@ Policy
 4. Bill Paid Policy
 5. Acceptable Use Policy
 
+Controls 
+1. CIS controls
+2. SOX controls
+3. Information Security Controls
+4. Boundary Defense Controls
+5. Administration Controls
 

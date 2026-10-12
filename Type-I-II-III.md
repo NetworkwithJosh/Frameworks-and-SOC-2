@@ -1,1 +1,1 @@
-
+A SOC 2 Type I examination addresses control design as of a specified date. A Type II examination also addresses operating effectiveness over a defined period. AICPA publishes illustrative Type II reporting materials under the applicable attestation requirements.
